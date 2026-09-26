@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.locuradigital.demo",
+  "versionCode": 120,
+  "versionName": "1.0.14.1-demo.1",
+  "mandatory": false,
+  "maintenance": false,
+  "message": "",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.1/LocuraDigitalDEMO.apk",
+  "sha256": "8F7748A28A6A40FEB7C22D3E0BEE4B95398463D9791C57036DEE8291FF443D94",
+  "size": 111952086,
+  "changes": [
+    "Primera version DEMO para pruebas internas.",
+    "Canal de actualizaciones separado de la app oficial.",
+    "Basada en 1.0.14.1 con mensajes de acceso diferenciados."
+  ]
+}
