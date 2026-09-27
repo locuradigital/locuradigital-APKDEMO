@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 123,
-  "versionName": "1.0.14.1-demo.4",
+  "versionCode": 124,
+  "versionName": "1.0.14.1-demo.5",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/1.0.14.1-demo.4/LocuraDigitalDEMO.apk",
-  "sha256": "66F3AE0545A77F08AA8C9382620A12D3FAF3230B7E6793BA00D39E51EFD83E3F",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.5/LocuraDigitalDEMO.apk",
+  "sha256": "D1D6BB6A2CEB473E8147199041ABEE609A407A6CFEAD1BA53E908802CBAB43A5",
   "size": 126666406,
   "changes": [
-    "Historial sin recorte automático a 100 entradas.",
-    "Los contenidos terminados conservan Visto y salen de Continuar viendo.",
-    "Porcentaje y capítulo coherentes con el episodio pendiente.",
-    "Borrado completo del progreso de una serie, sin que reaparezca al volver."
+    "Cuenta atrás de 10 segundos para pasar al siguiente episodio.",
+    "El ajuste determina cuántos segundos antes del final aparece el aviso.",
+    "Carga de temporadas largas en pequeños lotes.",
+    "Actualizar el progreso conserva el foco y la posición en la lista de episodios."
   ]
 }
