@@ -1,18 +1,19 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 127,
-  "versionName": "1.0.14.1-demo.8",
+  "versionCode": 130,
+  "versionName": "1.0.14.1-demo.9",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.8/LocuraDigitalDEMO.apk",
-  "sha256": "436A2E01EB427023E4965E942BF7ED50BF6723C52DFC1BF2AF898A1C22310E28",
-  "size": 126670502,
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.9/LocuraDigitalDEMO.apk",
+  "sha256": "7E1C313A8CD20FC18FF7BD3D13E7D427F829F710B2536D2D20BD1E2F680AD171",
+  "size": 126678911,
   "changes": [
-    "Fecha de expiración visible en la esquina inferior derecha de Inicio.",
-    "La fecha se comparte con Ajustes > Cuenta sin repetir consultas al cambiar de pantalla.",
-    "Se mantienen los mensajes diferenciados para credenciales, conexión y servidor.",
-    "Sin cambios en la VPN."
+    "Selector de VPN con Estados Unidos y Francia.",
+    "Cambio de país con desconexión previa y una sola VPN activa.",
+    "País seleccionado guardado para las próximas conexiones.",
+    "Selector disponible desde el inicio de sesión y dentro de la aplicación.",
+    "Navegación del selector con mando y pantalla táctil."
   ]
 }
