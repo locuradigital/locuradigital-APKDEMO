@@ -1,17 +1,18 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 126,
-  "versionName": "1.0.14.1-demo.7",
+  "versionCode": 127,
+  "versionName": "1.0.14.1-demo.8",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.7/LocuraDigitalDEMO.apk",
-  "sha256": "79578B3579B0B2973BA857C04A34677FB6F48C4FC922009547693792FCEBC50F",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.8/LocuraDigitalDEMO.apk",
+  "sha256": "436A2E01EB427023E4965E942BF7ED50BF6723C52DFC1BF2AF898A1C22310E28",
   "size": 126670502,
   "changes": [
-    "Navegación más ligera con el mando, sin el controlador de foco antiguo.",
-    "Menos trabajo al cargar las carátulas y el progreso de series.",
-    "Sin cambios visuales ni en la VPN, reproducción o datos guardados."
+    "Fecha de expiración visible en la esquina inferior derecha de Inicio.",
+    "La fecha se comparte con Ajustes > Cuenta sin repetir consultas al cambiar de pantalla.",
+    "Se mantienen los mensajes diferenciados para credenciales, conexión y servidor.",
+    "Sin cambios en la VPN."
   ]
 }
