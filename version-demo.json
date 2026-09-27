@@ -1,18 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 125,
-  "versionName": "1.0.14.1-demo.6",
+  "versionCode": 126,
+  "versionName": "1.0.14.1-demo.7",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.6/LocuraDigitalDEMO.apk",
-  "sha256": "58C060581F9209D7F84A7747FCEAA24B639E6A6426C3A508D6D921FD329B3F3D",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.7/LocuraDigitalDEMO.apk",
+  "sha256": "79578B3579B0B2973BA857C04A34677FB6F48C4FC922009547693792FCEBC50F",
   "size": 126670502,
   "changes": [
-    "Limpieza de APK temporales al abrir la versión instalada y antes de nuevas descargas.",
-    "El episodio anterior se marca como visto al pasar al siguiente, manual o automáticamente.",
-    "Botón Continuar viendo en la ficha de la serie para retomar el episodio pendiente.",
-    "Se conservan sesión, favoritos, progreso, ajustes y caché del catálogo."
+    "Navegación más ligera con el mando, sin el controlador de foco antiguo.",
+    "Menos trabajo al cargar las carátulas y el progreso de series.",
+    "Sin cambios visuales ni en la VPN, reproducción o datos guardados."
   ]
 }
