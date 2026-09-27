@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 122,
-  "versionName": "1.0.14.1-demo.3",
+  "versionCode": 123,
+  "versionName": "1.0.14.1-demo.4",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.3/LocuraDigitalDEMO.apk",
-  "sha256": "FA644D90E9CDD6609232897B6E6D82BC9FED9C498406E417AA56BAA4FCD76C12",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.4/LocuraDigitalDEMO.apk",
+  "sha256": "66F3AE0545A77F08AA8C9382620A12D3FAF3230B7E6793BA00D39E51EFD83E3F",
   "size": 126666406,
   "changes": [
-    "Verificación de integridad, firma, paquete y versión antes de instalar futuras actualizaciones.",
-    "Una única solicitud de instalación por descarga.",
-    "Corrección del cierre del aviso cuando una versión obligatoria ya está instalada.",
-    "Sin cambios en VPN, reproductor, catálogo ni diseño."
+    "Historial sin recorte automático a 100 entradas.",
+    "Los contenidos terminados conservan Visto y salen de Continuar viendo.",
+    "Porcentaje y capítulo coherentes con el episodio pendiente.",
+    "Borrado completo del progreso de una serie, sin que reaparezca al volver."
   ]
 }
