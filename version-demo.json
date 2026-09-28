@@ -1,19 +1,18 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 130,
-  "versionName": "1.0.14.1-demo.9",
+  "versionCode": 133,
+  "versionName": "1.0.14.1-demo.10",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.9/LocuraDigitalDEMO.apk",
-  "sha256": "7E1C313A8CD20FC18FF7BD3D13E7D427F829F710B2536D2D20BD1E2F680AD171",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.10/LocuraDigitalDEMO.apk",
+  "sha256": "69403CD8B1F901DB6A5895DA8D45E663A89201860F2825EA6D96D7281A56408E",
   "size": 126678911,
   "changes": [
-    "Selector de VPN con Estados Unidos y Francia.",
-    "Cambio de país con desconexión previa y una sola VPN activa.",
-    "País seleccionado guardado para las próximas conexiones.",
-    "Selector disponible desde el inicio de sesión y dentro de la aplicación.",
-    "Navegación del selector con mando y pantalla táctil."
+    "Ajuste del menu y las pantallas al area visible del movil.",
+    "Respeto del espacio de la camara y las barras de navegacion de Android.",
+    "Diseno completo centrado y proporcional, sin recortar los laterales.",
+    "Sin cambios en el reproductor ni en la VPN."
   ]
 }
