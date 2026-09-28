@@ -1,18 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 133,
-  "versionName": "1.0.14.1-demo.10",
+  "versionCode": 134,
+  "versionName": "1.0.14.1-demo.11",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.10/LocuraDigitalDEMO.apk",
-  "sha256": "69403CD8B1F901DB6A5895DA8D45E663A89201860F2825EA6D96D7281A56408E",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.11/LocuraDigitalDEMO.apk",
+  "sha256": "6C595D73292C4C10E92358CD87DF24719B8A8C7631B010544514E692F86229F6",
   "size": 126678911,
   "changes": [
-    "Ajuste del menu y las pantallas al area visible del movil.",
-    "Respeto del espacio de la camara y las barras de navegacion de Android.",
-    "Diseno completo centrado y proporcional, sin recortar los laterales.",
-    "Sin cambios en el reproductor ni en la VPN."
+    "Restaurado el ajuste de pantalla anterior de la DEMO.",
+    "Retirado el cambio de escalado de demo.10.",
+    "Se recupera el comportamiento de demo.9."
   ]
 }
