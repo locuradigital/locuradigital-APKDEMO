@@ -1,17 +1,16 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 136,
-  "versionName": "1.0.14.1-demo.13",
+  "versionCode": 138,
+  "versionName": "1.0.14.1-demo.15",
   "mandatory": false,
   "maintenance": false,
-  "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.13/LocuraDigitalDEMO.apk",
-  "sha256": "63944D18578767BB94E46647333125DCEEAA286E76C625E7C7338340AC22CB96",
+  "message": "Versión de prueba para identificar clientes VPN desde la APK DEMO.",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.15/demo138-signed.apk",
+  "sha256": "F91D154F022D3AF153535A67416FB8993946A4F901385084525E507717EFEA21",
   "size": 128833563,
   "changes": [
-    "Pantalla de error de descarga idéntica a la imagen proporcionada.",
-    "Volver, Reintentar y cerrar siguen funcionando con mando y pantalla táctil.",
-    "Se mantienen la identidad de instalación y las configuraciones VPN de la DEMO anterior."
+    "Conserva las mejoras de avisos de acceso de la DEMO .14.",
+    "Vincula la instalación VPN con el cliente autenticado; ya no está limitada a Abelsagrera."
   ]
 }
