@@ -1,18 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 135,
-  "versionName": "1.0.14.1-demo.12",
+  "versionCode": 136,
+  "versionName": "1.0.14.1-demo.13",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.12/LocuraDigitalDEMO.apk",
-  "sha256": "2AEA710BFFE1D769767D563159A23FB8AB472B759D0C0A423DC2B4D445E25B7D",
-  "size": 126678911,
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.13/LocuraDigitalDEMO.apk",
+  "sha256": "63944D18578767BB94E46647333125DCEEAA286E76C625E7C7338340AC22CB96",
+  "size": 128833563,
   "changes": [
-    "Identificador aleatorio por instalación, persistente entre sesiones y actualizaciones.",
-    "Identidad del usuario validado por la lista M3U, tipo de dispositivo y versión instalada.",
-    "Estado VPN y dirección del túnel cuando Android la proporciona de forma fiable.",
-    "Eventos internos de sesión, VPN y red; sin telemetría ni cambios en OpenVPN."
+    "Pantalla de error de descarga idéntica a la imagen proporcionada.",
+    "Volver, Reintentar y cerrar siguen funcionando con mando y pantalla táctil.",
+    "Se mantienen la identidad de instalación y las configuraciones VPN de la DEMO anterior."
   ]
 }
