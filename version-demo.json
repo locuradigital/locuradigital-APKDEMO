@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 150,
-  "versionName": "1.0.14.1-demo.27",
+  "versionCode": 151,
+  "versionName": "1.0.14.1-demo.28",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.27/LocuraDigitalDEMO.apk",
-  "sha256": "B92CE6259E0940F6603ED68D15F3AE95A4188D88084A7D423426769FF5894C45",
-  "size": 128858414,
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.28/LocuraDigitalDEMO.apk",
+  "sha256": "8687B8828F4BB396247A3FB788F559F58A329746A45BA9D1C921537A7887E35E",
+  "size": 128862584,
   "changes": [
-    "Diagnostico EPG de solo lectura en Ajustes para instalaciones DEMO.",
-    "Comprueba config, metadata, now-next y guide reales con el ID propio del dispositivo.",
-    "Informe sanitizado para diagnosticar la TV fisica sin exponer credenciales."
+    "Diagnostico de conexion y contenido de solo lectura en Ajustes.",
+    "Informe sanitizado con HTTP y latencias de autenticacion, carga y actualizacion.",
+    "Prueba visual HTTP 404 claramente marcada como simulacion."
   ]
 }
