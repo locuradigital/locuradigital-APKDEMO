@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 139,
-  "versionName": "1.0.14.1-demo.16",
+  "versionCode": 147,
+  "versionName": "1.0.14.1-demo.24-search",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.16/LocuraDigitalDEMO.apk",
-  "sha256": "602EB1485BB7D1474868C79E3140DDA1E669367E75B47F20572E481315068B85",
-  "size": 128833703,
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.24-search/LocuraDigitalDEMO.apk",
+  "sha256": "2BDC9EA7B5AFFCC33D04E2175758A9DF43D3A7595F90765F76D4621065B89802",
+  "size": 128858414,
   "changes": [
-    "Ajuste local de tamaño del texto: Pequeño, Normal, Grande y Muy grande.",
-    "Cambio inmediato, vista previa y persistencia tras reiniciar la aplicación.",
-    "Escalado de textos en la interfaz WebView principal, VPN y error de reproducción.",
-    "Se conserva el tamaño anterior en Normal y no cambian las configuraciones VPN."
+    "Backspace y Delete editan el texto del buscador de Guia TV sin cerrar la guia.",
+    "Los buscadores de TV, cine, series y global conservan el foco al corregir texto.",
+    "Escape y el boton BACK del mando mantienen la navegacion hacia atras.",
+    "Las flechas izquierda y derecha mueven el cursor dentro del buscador del catalogo."
   ]
 }
