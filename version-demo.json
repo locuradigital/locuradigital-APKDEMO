@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 147,
-  "versionName": "1.0.14.1-demo.24-search",
+  "versionCode": 148,
+  "versionName": "1.0.14.1-demo.25",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.24/LocuraDigitalDEMO.apk",
-  "sha256": "2BDC9EA7B5AFFCC33D04E2175758A9DF43D3A7595F90765F76D4621065B89802",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.25/LocuraDigitalDEMO.apk",
+  "sha256": "55585D3521E6EA302BE8FF0425691471A2F14C08EAC70B1D34131FE89B8EAE2B",
   "size": 128858414,
   "changes": [
-    "Backspace y Delete editan el texto del buscador de Guia TV sin cerrar la guia.",
-    "Los buscadores de TV, cine, series y global conservan el foco al corregir texto.",
-    "Escape y el boton BACK del mando mantienen la navegacion hacia atras.",
-    "Las flechas izquierda y derecha mueven el cursor dentro del buscador del catalogo."
+    "EPG en TV en directo: programacion actual, siguiente programa y guia completa.",
+    "El panel EPG del reproductor aparece solo cuando existe programacion real del canal.",
+    "Backspace y Delete editan los buscadores sin activar la navegacion hacia atras.",
+    "Escape y el boton BACK del mando mantienen la navegacion habitual."
   ]
 }
