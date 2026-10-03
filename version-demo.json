@@ -1,17 +1,16 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 153,
-  "versionName": "1.0.14.1-demo.30",
+  "versionCode": 154,
+  "versionName": "1.0.14.1-demo.31",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.30/LocuraDigitalDEMO.apk",
-  "sha256": "27F6890E08CED219E5BC5640ED3A1DC634C0759A34A05262EFA3063A707BA4ED",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.31/LocuraDigitalDEMO.apk",
+  "sha256": "2353FBC6FEA53F3EC8059D50E62155932BE504F3FF3AB2C1CFE8202DCE6A31C9",
   "size": 128887232,
   "changes": [
-    "Actualización visible del contenido al iniciar sesión, abrir la app y volver desde segundo plano.",
-    "Limpieza de caché temporal al terminar sin borrar progreso, favoritos ni sesión.",
-    "Opción para recordar usuario y contraseña con texto y casilla corregidos."
+    "Salir del reproductor vuelve al catálogo sin actualizar el contenido.",
+    "La actualización visible continúa al iniciar sesión, abrir la app o regresar desde segundo plano."
   ]
 }
