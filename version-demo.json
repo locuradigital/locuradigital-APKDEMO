@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 152,
-  "versionName": "1.0.14.1-demo.29",
+  "versionCode": 153,
+  "versionName": "1.0.14.1-demo.30",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.29/LocuraDigitalDEMO.apk",
-  "sha256": "FCEAA225FFFE826A35B4D4FB070F68E434039F1B016899DA3E2D2CC280793F99",
-  "size": 128878968,
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.30/LocuraDigitalDEMO.apk",
+  "sha256": "27F6890E08CED219E5BC5640ED3A1DC634C0759A34A05262EFA3063A707BA4ED",
+  "size": 128887232,
   "changes": [
-    "Logos de canales completos y centrados en TV, ficha y Guia TV.",
-    "Soporte de logos SVG en la barra EPG y el mini EPG.",
-    "Conserva el logo IPTV y el placeholder cuando falla el Logo Portal."
+    "Actualización visible del contenido al iniciar sesión, abrir la app y volver desde segundo plano.",
+    "Limpieza de caché temporal al terminar sin borrar progreso, favoritos ni sesión.",
+    "Opción para recordar usuario y contraseña con texto y casilla corregidos."
   ]
 }
