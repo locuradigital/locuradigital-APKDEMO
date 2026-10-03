@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.demo",
-  "versionCode": 154,
-  "versionName": "1.0.14.1-demo.31",
+  "versionCode": 155,
+  "versionName": "1.0.14.1-demo.32",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.31/LocuraDigitalDEMO.apk",
-  "sha256": "2353FBC6FEA53F3EC8059D50E62155932BE504F3FF3AB2C1CFE8202DCE6A31C9",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.32/LocuraDigitalDEMO.apk",
+  "sha256": "7B7FA54223953A429D09641E087BF2BEEC2127A5D68DF964062861259B2DB2BC",
   "size": 128887232,
   "changes": [
-    "Salir del reproductor vuelve al catálogo sin actualizar el contenido.",
-    "La actualización visible continúa al iniciar sesión, abrir la app o regresar desde segundo plano."
+    "Aviso Siguiente episodio más compacto en TV y móvil.",
+    "Sin cambios en la cuenta atrás, los botones ni la navegación con mando."
   ]
 }
