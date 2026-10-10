@@ -1,16 +1,17 @@
 {
-  "schemaVersion": 1,
-  "packageName": "com.locuradigital.demo",
-  "versionCode": 155,
-  "versionName": "1.0.14.1-demo.32",
-  "mandatory": false,
-  "maintenance": false,
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/untagged-162359293bf10142b69b/Locura.Digital.Demo.apk",
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.0.14.1-demo.32/LocuraDigitalDEMO.apk",
-  "sha256": "7B7FA54223953A429D09641E087BF2BEEC2127A5D68DF964062861259B2DB2BC",
-  "size": 128887232,
+  "versionCode": 157,
+  "sha256": "FAD42B06B072623B883A19DFF2BA641EEB128959D78A4D5270AC43E5BC225456",
+  "maintenance": false,
   "changes": [
-    "Aviso Siguiente episodio más compacto en TV y móvil.",
-    "Sin cambios en la cuenta atrás, los botones ni la navegación con mando."
-  ]
+    "Locura Digital Demo 1.1.0-demo: version de pruebas para movil y TV.",
+    "Funciones Offline en movil/tablet y mejoras de rendimiento.",
+    "TV mantiene su interfaz; validacion fisica pendiente."
+  ],
+  "mandatory": false,
+  "packageName": "com.locuradigital.demo",
+  "versionName": "1.1.0-demo",
+  "schemaVersion": 1,
+  "size": 131886347
 }
