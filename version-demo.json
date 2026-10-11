@@ -1,18 +1,19 @@
 {
-  "versionName": "1.1.4-demo",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.1.4-demo/LocuraDigitalDEMO.apk",
   "maintenance": false,
-  "message": "",
-  "packageName": "com.locuradigital.demo",
-  "mandatory": false,
   "changes": [
-    "Correccion del mando en Volver y Reintentar del aviso de conexion.",
-    "Nuevo panel rojo del error y retorno del foco al cerrar.",
-    "Correccion del fondo duplicado en Cerrar sesion.",
-    "Inicio y aviso comprobados en Fire TV; reproduccion pendiente por fallo del servidor."
+    "Dos estilos de subtitulos: Contorno negro predeterminado y Fondo negro.",
+    "Contorno negro reforzado aprobado; retirado el ajuste experimental de nitidez.",
+    "Preferencias Castellano, Latino e Ingles y seleccion de Forzados/Completos cuando estan identificados.",
+    "Evita reiniciar una pista de audio ya activa; probado con Linea de extincion en BlueStacks.",
+    "Nombres de pistas del archivo cuando estan disponibles y proteccion frente al aviso de instalacion al salir del reproductor."
   ],
-  "versionCode": 161,
-  "size": 139984723,
-  "sha256": "C3987D954DB24E31A86AC4C4AE0C15043212B20E5890F563075DACE774BA6582",
-  "schemaVersion": 1
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.1.5-demo/LocuraDigitalDEMO.apk",
+  "size": 139988819,
+  "mandatory": false,
+  "sha256": "5FBAEC90408BC2EB2B207E4CCB47C57180EE9EC865D9B29260AFBA4BFF090A8D",
+  "schemaVersion": 1,
+  "packageName": "com.locuradigital.demo",
+  "versionCode": 162,
+  "message": "",
+  "versionName": "1.1.5-demo"
 }
