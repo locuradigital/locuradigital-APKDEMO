@@ -1,17 +1,17 @@
 {
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.1.0-demo/LocuraDigitalDEMO.apk",
-  "message": "",
-  "versionCode": 157,
-  "sha256": "FAD42B06B072623B883A19DFF2BA641EEB128959D78A4D5270AC43E5BC225456",
-  "maintenance": false,
+  "sha256": "9F6CDACCD62E61554BDB641D6C66A82C5AA54A12A710B1D7B50374BF1D914286",
   "changes": [
-    "Locura Digital Demo 1.1.0-demo: version de pruebas para movil y TV.",
-    "Funciones Offline en movil/tablet y mejoras de rendimiento.",
-    "TV mantiene su interfaz; validacion fisica pendiente."
+    "Mejoras de navegacion y reduccion de trabajo repetido en Fire TV.",
+    "Descargas se muestra en una sola linea en movil y tablet.",
+    "Conserva las correcciones de compatibilidad Android; TV permanece sin Descargas."
   ],
-  "mandatory": false,
+  "versionName": "1.1.2-demo",
+  "message": "",
+  "size": 132041995,
+  "versionCode": 159,
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.1.2-demo/LocuraDigitalDEMO.apk",
   "packageName": "com.locuradigital.demo",
-  "versionName": "1.1.0-demo",
   "schemaVersion": 1,
-  "size": 131886347
+  "mandatory": false,
+  "maintenance": false
 }
