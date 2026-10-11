@@ -1,19 +1,18 @@
 {
-  "versionName": "1.1.7-demo",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.1.7-demo/LocuraDigitalDEMO.apk",
+  "versionName": "1.1.8-demo",
   "message": "",
-  "mandatory": false,
-  "schemaVersion": 1,
-  "sha256": "C6ACBA89BA5F3C41E48BE481836B3717A476C92E72315FB862401A7002E36505",
   "packageName": "com.locuradigital.demo",
-  "maintenance": false,
   "size": 139992915,
-  "versionCode": 164,
+  "schemaVersion": 1,
+  "maintenance": false,
   "changes": [
-    "Corrige la navegacion con mando en el selector de perfiles y la prioridad de los dialogos.",
-    "Evita estados obsoletos del instalador y mejora la limpieza del actualizador.",
-    "Separa marcas de cache por cuenta y conserva la identidad del historial offline.",
-    "Reduce trabajo de lectura de metadatos y detiene trabajadores al cerrar su servicio.",
-    "Mantiene actualizacion de contenido cada 12 horas o manual. Persisten tirones puntuales en Fire; descargas pendientes de validacion en movil."
-  ]
+    "TV en directo fija a pantalla completa en televisores, moviles y tablets.",
+    "Los canales ya no heredan el aspecto seleccionado en peliculas o series.",
+    "Peliculas y series conservan sus ajustes de aspecto.",
+    "Comprobado en Fire despacho; pendiente de comprobacion en movil real."
+  ],
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.1.8-demo/LocuraDigitalDEMO.apk",
+  "versionCode": 165,
+  "mandatory": false,
+  "sha256": "744B01C66BC5ED548EB62C2C5396654B410F4DE26BFC1F56B8B246861ACFFF27"
 }
