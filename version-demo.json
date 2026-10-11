@@ -1,17 +1,18 @@
 {
-  "sha256": "9F6CDACCD62E61554BDB641D6C66A82C5AA54A12A710B1D7B50374BF1D914286",
-  "changes": [
-    "Mejoras de navegacion y reduccion de trabajo repetido en Fire TV.",
-    "Descargas se muestra en una sola linea en movil y tablet.",
-    "Conserva las correcciones de compatibilidad Android; TV permanece sin Descargas."
-  ],
-  "versionName": "1.1.2-demo",
-  "message": "",
-  "size": 132041995,
-  "versionCode": 159,
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.1.2-demo/LocuraDigitalDEMO.apk",
-  "packageName": "com.locuradigital.demo",
   "schemaVersion": 1,
+  "changes": [
+    "Selector de hasta tres perfiles locales por cuenta.",
+    "Nueva confirmacion de Cerrar sesion.",
+    "Ajustes del instalador y correccion del aviso repetido de actualizacion instalada.",
+    "DEMO probada en BlueStacks; validacion fisica completa pendiente."
+  ],
+  "message": "",
   "mandatory": false,
-  "maintenance": false
+  "size": 138641085,
+  "versionCode": 160,
+  "packageName": "com.locuradigital.demo",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.1.3-demo/LocuraDigitalDEMO.apk",
+  "sha256": "C05B91A460C8D1677C9127AB481DFF09E8DA99E86C48CF9062F2D50249A63EEC",
+  "maintenance": false,
+  "versionName": "1.1.3-demo"
 }
