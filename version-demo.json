@@ -1,18 +1,18 @@
 {
-  "schemaVersion": 1,
-  "changes": [
-    "Selector de hasta tres perfiles locales por cuenta.",
-    "Nueva confirmacion de Cerrar sesion.",
-    "Ajustes del instalador y correccion del aviso repetido de actualizacion instalada.",
-    "DEMO probada en BlueStacks; validacion fisica completa pendiente."
-  ],
-  "message": "",
-  "mandatory": false,
-  "size": 138641085,
-  "versionCode": 160,
-  "packageName": "com.locuradigital.demo",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.1.3-demo/LocuraDigitalDEMO.apk",
-  "sha256": "C05B91A460C8D1677C9127AB481DFF09E8DA99E86C48CF9062F2D50249A63EEC",
+  "versionName": "1.1.4-demo",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.1.4-demo/LocuraDigitalDEMO.apk",
   "maintenance": false,
-  "versionName": "1.1.3-demo"
+  "message": "",
+  "packageName": "com.locuradigital.demo",
+  "mandatory": false,
+  "changes": [
+    "Correccion del mando en Volver y Reintentar del aviso de conexion.",
+    "Nuevo panel rojo del error y retorno del foco al cerrar.",
+    "Correccion del fondo duplicado en Cerrar sesion.",
+    "Inicio y aviso comprobados en Fire TV; reproduccion pendiente por fallo del servidor."
+  ],
+  "versionCode": 161,
+  "size": 139984723,
+  "sha256": "C3987D954DB24E31A86AC4C4AE0C15043212B20E5890F563075DACE774BA6582",
+  "schemaVersion": 1
 }
