@@ -1,19 +1,19 @@
 {
-  "schemaVersion": 1,
-  "versionName": "1.1.6-demo",
-  "size": 139988819,
-  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.1.6-demo/LocuraDigitalDEMO.apk",
+  "versionName": "1.1.7-demo",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/v1.1.7-demo/LocuraDigitalDEMO.apk",
   "message": "",
+  "mandatory": false,
+  "schemaVersion": 1,
+  "sha256": "C6ACBA89BA5F3C41E48BE481836B3717A476C92E72315FB862401A7002E36505",
   "packageName": "com.locuradigital.demo",
-  "versionCode": 163,
-  "sha256": "5D70272BB0E06968FBA6C8C77D380885521103A28A65D01B159EF81D25F92D64",
-  "changes": [
-    "Actualizacion automatica del contenido cada 12 horas desde la ultima completada, o manual desde Actualizar.",
-    "No inicia actualizaciones de contenido estando minimizada; comprueba el plazo al volver.",
-    "Elimina escrituras duplicadas del catalogo y reutiliza calculos de progreso.",
-    "Optimizacion grafica del catalogo TV con capas independientes y un numero limitado de tarjetas fuera de pantalla.",
-    "Conserva el diseno, la limpieza de cache al actualizar y las funciones anteriores."
-  ],
   "maintenance": false,
-  "mandatory": false
+  "size": 139992915,
+  "versionCode": 164,
+  "changes": [
+    "Corrige la navegacion con mando en el selector de perfiles y la prioridad de los dialogos.",
+    "Evita estados obsoletos del instalador y mejora la limpieza del actualizador.",
+    "Separa marcas de cache por cuenta y conserva la identidad del historial offline.",
+    "Reduce trabajo de lectura de metadatos y detiene trabajadores al cerrar su servicio.",
+    "Mantiene actualizacion de contenido cada 12 horas o manual. Persisten tirones puntuales en Fire; descargas pendientes de validacion en movil."
+  ]
 }
