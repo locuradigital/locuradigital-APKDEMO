@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "channel": "windows-demo",
+  "platform": "windows-x64",
+  "version": "0.1.9",
+  "url": "https://github.com/locuradigital/locuradigital-APKDEMO/releases/download/windows-demo-v0.1.9/LocuraDigital-Windows-Demo-0.1.9-Setup.exe",
+  "size": 54183282,
+  "sha256": "B31EC0B247FAB73AFAABB9727E2F834D92858630BD0676C7A26BF71166B09FFE",
+  "appSha256": "B5957BFC3D9DCAA17879FA97BD41ABF3AFD7DBB3941BF3F68D204CF93E16D2C1"
+}
